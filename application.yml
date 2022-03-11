@@ -1,3 +1,8 @@
+channel:
+     source: youtube-main-dev
+     name: config learning main dev
+     url: http://localhost:8080/main-dev 
+
 eureka:
    client:
       registerWithEureka: true
