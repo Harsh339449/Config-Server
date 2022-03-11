@@ -1,7 +1,7 @@
 channel:
-     source: youtube-main-dev
-     name: config learning main dev
-     url: http://localhost:8080/main-dev 
+     source: youtube-main-default
+     name: config learning main default
+     url: http://localhost:8080/main-default 
 
 eureka:
    client:
